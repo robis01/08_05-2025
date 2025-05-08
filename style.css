@@ -1,0 +1,92 @@
+/* .saturs{ 
+    background-color:purple;
+border: 2px solid black;} */
+.produkti {
+border: 2px solid black;
+}
+.karte {
+    border: 2px solid black
+}
+.tabula {
+    border: 2px solid black;
+    background-color: aqua;
+}
+/* .foto {
+    background: purple;
+    border: 2px solid black;
+} */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    }
+    header {
+    background-color: #4a4a6a;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    }
+    h2 {
+    color: #42035d;
+    text-align: center;
+    }
+    nav {
+    background-color: #6a6a8a;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    } 
+    .saturs {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        padding: 20px;
+        }
+        .produkti {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        }
+        .produkts {
+        background-color: white;
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin-bottom: 20px;
+        width: 30%;
+        text-align: center;
+        }
+        img {
+        max-width: 45%;
+        height: 180px;
+        display: inline-block;
+        }
+        footer {
+        background-color: #4a4a6a;
+        color: white;
+        text-align: center;
+        padding: 1rem;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        } 
+        nav {
+            background-color: #6a6a8a;
+            padding: 1rem;
+            display: flex;
+            justify-content: center;
+            }
+            nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            }
+            nav a:hover {
+            background-color: #8a8aaa;
+            } 
+            .Portugale {
+                display: flex;
+                border-image: 20px;
+            }
